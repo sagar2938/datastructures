@@ -1,0 +1,41 @@
+package Graphs;
+
+public class GraphOpertions {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public static Graph createGrph(int V){
+		Graph graph=new Graph(V);
+		return graph;
+	}
+	
+	public static void addEdge(Graph graph,int src,int dest){
+		
+		AdjListNode newNode =new AdjListNode(dest));
+		
+		//adding adj vertices(list) of source to the new node
+		
+		newNode.next=graph.adjNodeList[src].head;
+		//setting the newNod as the adjecent node
+		graph.adjNodeList[src].head=newNode;
+		
+		/// this is incase of non directed graphs
+		
+		AdjListNode newNode2=new AdjListNode(src);
+		
+		//adding adj list of the other one to src
+		
+		newNode2.next=graph.adjNodeList[dest].head;
+		
+		//settin this new node as the adjecent node
+		
+		graph.adjNodeList[dest].head=newNode2;
+		
+	}
+}

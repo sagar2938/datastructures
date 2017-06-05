@@ -1,0 +1,10 @@
+package Graphs;
+
+public class Graph {
+
+	int V;
+	AdjList adjNodeList[];
+	Graph(int V){
+		this.V=V;
+	}
+}

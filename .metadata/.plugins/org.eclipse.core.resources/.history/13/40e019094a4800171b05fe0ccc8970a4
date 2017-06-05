@@ -1,0 +1,11 @@
+package Graphs;
+
+public class AdjListNode {
+	int dest;
+	AdjListNode next;
+	public AdjListNode(int dest) {
+		// TODO Auto-generated constructor stub
+		this.dest=dest;
+	}
+	
+}
