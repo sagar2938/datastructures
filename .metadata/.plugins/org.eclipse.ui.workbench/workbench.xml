@@ -34,24 +34,34 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
+<part id="2"/>
+<part id="3"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Node.java" partName="Node.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/BinaryTrees/Node.java" title="Node.java" tooltip="DataStructures/src/BinaryTrees/Node.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/BinaryTrees/Node.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="160" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringPermutation.java" partName="StringPermutation.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/backtracking/StringPermutation.java" title="StringPermutation.java" tooltip="DataStructures/src/backtracking/StringPermutation.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/backtracking/StringPermutation.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="553" selectionTopPixel="448"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinaryTreeOperations.java" partName="BinaryTreeOperations.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/BinaryTrees/BinaryTreeOperations.java" title="BinaryTreeOperations.java" tooltip="DataStructures/src/BinaryTrees/BinaryTreeOperations.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/BinaryTrees/BinaryTreeOperations.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="10107" selectionTopPixel="5751"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NQueenProblem.java" partName="NQueenProblem.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/backtracking/NQueenProblem.java" title="NQueenProblem.java" tooltip="DataStructures/src/backtracking/NQueenProblem.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/backtracking/NQueenProblem.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="466" selectionTopPixel="163"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestClass.java" partName="TestClass.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/backtracking/TestClass.java" title="TestClass.java" tooltip="DataStructures/src/backtracking/TestClass.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/backtracking/TestClass.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1593" selectionTopPixel="625"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestClass2.java" partName="TestClass2.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/backtracking/TestClass2.java" title="TestClass2.java" tooltip="DataStructures/src/backtracking/TestClass2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/backtracking/TestClass2.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="325" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Errors (1 item)"/>
+<category IMemento.internal.id="Warnings (4 items)"/>
 <category IMemento.internal.id="Errors"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
@@ -218,7 +228,7 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="250" ratioRight="750" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.7487844" ratioLeft="462" ratioRight="155" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="bottom" ratio="0.6888889" ratioLeft="434" ratioRight="196" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
@@ -261,157 +271,160 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/BinaryTrees/BinaryTreeOperations.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/backtracking/StringPermutation.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/backtracking/NQueenProblem.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/backtracking/TestClass.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/backtracking/TestClass2.java"/>
 </editors>
-<item historyLabel="BinaryTreeOperations.java" index="0">
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="690" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="818" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="813" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="836" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="863" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="1011" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="1032" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="1050" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="1096" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="1134" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="1204" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="1355" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="1309" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="1333" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="1404" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="946" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="965" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="967" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="886" y="0"/>
+</item>
+<item historyLabel="StringPermutation.java" index="0">
+<position info="not_deleted" x="918" y="0"/>
+</item>
+<item historyLabel="NQueenProblem.java" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="NQueenProblem.java" index="1">
+<position info="not_deleted" x="594" y="0"/>
+</item>
+<item historyLabel="NQueenProblem.java" index="1">
+<position info="not_deleted" x="171" y="0"/>
+</item>
+<item historyLabel="NQueenProblem.java" index="1">
+<position info="not_deleted" x="205" y="0"/>
+</item>
+<item historyLabel="NQueenProblem.java" index="1">
+<position info="not_deleted" x="476" y="0"/>
+</item>
+<item historyLabel="NQueenProblem.java" index="1">
+<position info="not_deleted" x="239" y="0"/>
+</item>
+<item historyLabel="NQueenProblem.java" index="1">
+<position info="not_deleted" x="265" y="0"/>
+</item>
+<item historyLabel="NQueenProblem.java" index="1">
+<position info="not_deleted" x="352" y="0"/>
+</item>
+<item historyLabel="NQueenProblem.java" index="1">
+<position info="not_deleted" x="342" y="0"/>
+</item>
+<item historyLabel="NQueenProblem.java" index="1">
+<position info="not_deleted" x="466" y="0"/>
+</item>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="TestClass.java" index="2">
 <position/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="1386" y="0"/>
+</item>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="1515" y="0"/>
+</item>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="1890" y="0"/>
+</item>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="1888" y="0"/>
+</item>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="1386" y="0"/>
+</item>
+<item historyLabel="TestClass.java" index="2">
 <position/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="6944" y="0"/>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="1386" y="0"/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8031" y="0"/>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="2296" y="0"/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="7487" y="0"/>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="2257" y="0"/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8031" y="0"/>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="2333" y="0"/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8026" y="0"/>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="2435" y="0"/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="7841" y="0"/>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="2437" y="0"/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="7924" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="7959" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8024" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="7576" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8542" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8538" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8176" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8172" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8437" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8436" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8490" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
+<item historyLabel="TestClass.java" index="2">
 <position/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="2026" y="0"/>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="2004" y="0"/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="10111" y="0"/>
+<item historyLabel="TestClass.java" index="2">
+<position/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9134" y="0"/>
+<item historyLabel="TestClass.java" index="2">
+<position info="not_deleted" x="1593" y="0"/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8944" y="0"/>
+<item historyLabel="TestClass2.java" index="3">
+<position info="not_deleted" x="325" y="0"/>
 </item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8943" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9034" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9036" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9134" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8675" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8611" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="8853" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9215" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9272" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9691" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9460" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9618" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9576" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9691" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9691" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9661" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9658" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9691" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9688" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="10111" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="9886" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="10000" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="2385" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="2221" y="0"/>
-</item>
-<item historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="2385" y="0"/>
-</item>
-<item active="true" historyLabel="BinaryTreeOperations.java" index="0">
-<position info="not_deleted" x="2381" y="0"/>
+<item active="true" historyLabel="NQueenProblem.java" index="1">
+<position info="not_deleted" x="466" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -431,6 +444,30 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestClass2.java" tooltip="DataStructures/src/backtracking/TestClass2.java">
+<persistable path="/DataStructures/src/backtracking/TestClass2.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestClass.java" tooltip="DataStructures/src/backtracking/TestClass.java">
+<persistable path="/DataStructures/src/backtracking/TestClass.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NQueenProblem.java" tooltip="DataStructures/src/backtracking/NQueenProblem.java">
+<persistable path="/DataStructures/src/backtracking/NQueenProblem.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringPermutation.java" tooltip="DataStructures/src/backtracking/StringPermutation.java">
+<persistable path="/DataStructures/src/backtracking/StringPermutation.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Graph.java" tooltip="DataStructures/src/Graphs/Graph.java">
+<persistable path="/DataStructures/src/Graphs/Graph.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdjList.java" tooltip="DataStructures/src/Graphs/AdjList.java">
+<persistable path="/DataStructures/src/Graphs/AdjList.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdjListNode.java" tooltip="DataStructures/src/Graphs/AdjListNode.java">
+<persistable path="/DataStructures/src/Graphs/AdjListNode.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GraphOpertions.java" tooltip="DataStructures/src/Graphs/GraphOpertions.java">
+<persistable path="/DataStructures/src/Graphs/GraphOpertions.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinaryTreeOperations.java" tooltip="DataStructures/src/BinaryTrees/BinaryTreeOperations.java">
 <persistable path="/DataStructures/src/BinaryTrees/BinaryTreeOperations.java"/>
 </file>

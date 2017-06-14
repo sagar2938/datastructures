@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="BinaryTrees.Node"/>
+<fullyQualifiedTypeName name="Graphs.Graph"/>
 <fullyQualifiedTypeName name="java.util.Queue"/>
 <fullyQualifiedTypeName name="java.util.LinkedList"/>
-<fullyQualifiedTypeName name="BinaryTrees.Node"/>
-<fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="Graphs.AdjList"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="java.util.zip.Adler32"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="Graphs.AdjListNode"/>
+<fullyQualifiedTypeName name="backtracking.Position"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.lang.Long"/>
+<fullyQualifiedTypeName name="backtracking.fibonacci"/>
 </qualifiedTypeNameHistroy>
