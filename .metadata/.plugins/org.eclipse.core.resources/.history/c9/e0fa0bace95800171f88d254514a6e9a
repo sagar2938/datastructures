@@ -1,0 +1,64 @@
+package LinkedLists;
+
+public class Operations {
+
+	/**
+	 * @param args
+	 */static Node head=null;
+	 static int a=0;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int arr[]={1,2,3,4,5,6,7,8,9,10};
+		head=createLinkedList(head, arr);
+		System.out.println("a : "+a);
+		System.out.println("the new head is : "+head);
+		displayLinkedList(head);
+		System.out.println("reversing a linked list");
+		Node newHead=reverseLinkedList(head);
+		displayLinkedList(newHead);
+	}
+	public static Node createLinkedList(Node head,int[]arr){
+		System.out.println("create linked list is invoked");
+		Node temp=head;
+		Operations.a=Operations.a+10;
+		for(int i=0;i<arr.length;i++){
+			if(head==null){
+				System.out.println("head is null");
+				head=new Node(i);
+				System.out.println(head);
+				temp=head;
+			}else{
+				//System.out.println("head is not null  "+i);
+				temp.next=new Node(i);
+				temp=temp.next;
+			}
+		}
+		System.out.println("before coming out");
+		System.out.println(head);
+		return head;
+	}
+	public static void displayLinkedList(Node head){
+		Node temp=head;
+		while(temp!=null){
+			System.out.print(temp.data+"  ");
+			temp=temp.next;
+		}
+	}
+	public static Node reverseLinkedList(Node head){
+		System.out.println("recieved head "+head);
+		Node tempHead=head;
+		Node prev=head;
+		prev.next=null;
+		tempHead=tempHead.next;
+		while(tempHead!=null){
+			Node current =tempHead;
+			current.next=prev;
+			prev=current;
+			tempHead=tempHead.next;
+			System.out.println("count");
+		}
+		return prev;
+	}
+
+}
