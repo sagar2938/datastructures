@@ -27,17 +27,6 @@ public class Operations {
 		two.next=four;
 		four.next=six;
 		six.next=two;
-		//displayLinkedList(loopHead);
-		int data=removeCycle(loopHead);
-		System.out.println();
-		System.out.println("checking for the loop in linked list");
-		displayLinkedList(loopHead);
-		System.out.println();
-		if(data==-1){
-			System.out.println("no loop found in linked list");
-		}else{
-			System.out.println("loop found at "+data);
-		}
 		
 		
 	}
@@ -88,30 +77,17 @@ public class Operations {
 	//	tail.next=null;
 		return prev;
 	}
-	public static int removeCycle(Node head){
+	public static Node removeCycle(Node head){
 		Node p=head;
 		Node q=head;
-		boolean loopFound=false;
 		while(p!=null && q!=null && q.next!=null){
 			p=p.next;
 			q=q.next.next;
 			if(p==q){
-				loopFound=true;
-				break;
+				return  p;
 			}
 		}
-		if(loopFound){
-			Node loopStart=findLoopStart(p, head);
-			Node next=loopStart.next;
-			while(next.next!=loopStart){
-				next=next.next;
-			}
-			next.next=null;
-			return loopStart.data;
-		}else{
-			return -1;
-		}
-		
+		return null;
 	}
 	public static Node findLoopStart(Node p,Node head){
 		Node q=head;

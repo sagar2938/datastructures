@@ -27,7 +27,7 @@ public class Operations {
 		two.next=four;
 		four.next=six;
 		six.next=two;
-		//displayLinkedList(loopHead);
+		displayLinkedList(loopHead);
 		int data=removeCycle(loopHead);
 		System.out.println();
 		System.out.println("checking for the loop in linked list");
@@ -38,8 +38,6 @@ public class Operations {
 		}else{
 			System.out.println("loop found at "+data);
 		}
-		
-		
 	}
 	public static Node createLinkedList(Node head,int[]arr){
 		System.out.println("create linked list is invoked");
