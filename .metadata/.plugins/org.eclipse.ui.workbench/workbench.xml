@@ -36,17 +36,26 @@
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringPermutation.java" partName="StringPermutation.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/backtracking/StringPermutation.java" title="StringPermutation.java" tooltip="DataStructures/src/backtracking/StringPermutation.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/backtracking/StringPermutation.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="553" selectionTopPixel="448"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="553" selectionTopPixel="165"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NQueenProblem.java" partName="NQueenProblem.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/backtracking/NQueenProblem.java" title="NQueenProblem.java" tooltip="DataStructures/src/backtracking/NQueenProblem.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NQueenProblem.java" partName="NQueenProblem.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/backtracking/NQueenProblem.java" title="NQueenProblem.java" tooltip="DataStructures/src/backtracking/NQueenProblem.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/backtracking/NQueenProblem.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="466" selectionTopPixel="163"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="205" selectionTopPixel="350"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestClass.java" partName="TestClass.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/backtracking/TestClass.java" title="TestClass.java" tooltip="DataStructures/src/backtracking/TestClass.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/backtracking/TestClass.java"/>
@@ -56,14 +65,46 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/backtracking/TestClass2.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="325" selectionTopPixel="0"/>
 </editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="stringCombination.java" partName="stringCombination.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/backtracking/stringCombination.java" title="stringCombination.java" tooltip="DataStructures/src/backtracking/stringCombination.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/backtracking/stringCombination.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="586" selectionTopPixel="32"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CoinChangingProblem.java" partName="CoinChangingProblem.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/backtracking/CoinChangingProblem.java" title="CoinChangingProblem.java" tooltip="DataStructures/src/backtracking/CoinChangingProblem.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/backtracking/CoinChangingProblem.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="175" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReverseArray.java" partName="ReverseArray.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/Arrays/ReverseArray.java" title="ReverseArray.java" tooltip="DataStructures/src/Arrays/ReverseArray.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/Arrays/ReverseArray.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="377" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="missingElement.java" partName="missingElement.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/Arrays/missingElement.java" title="missingElement.java" tooltip="DataStructures/src/Arrays/missingElement.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/Arrays/missingElement.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="296" selectionTopPixel="77"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaxSubArray_KadaneAlgorithm.java" partName="MaxSubArray_KadaneAlgorithm.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/Arrays/MaxSubArray_KadaneAlgorithm.java" title="MaxSubArray_KadaneAlgorithm.java" tooltip="DataStructures/src/Arrays/MaxSubArray_KadaneAlgorithm.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/Arrays/MaxSubArray_KadaneAlgorithm.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="573" selectionTopPixel="62"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PairWithSum.java" partName="PairWithSum.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/Arrays/PairWithSum.java" title="PairWithSum.java" tooltip="DataStructures/src/Arrays/PairWithSum.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/Arrays/PairWithSum.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="335" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReverseArrayWithoutSpecialChars.java" partName="ReverseArrayWithoutSpecialChars.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/Strings/ReverseArrayWithoutSpecialChars.java" title="ReverseArrayWithoutSpecialChars.java" tooltip="DataStructures/src/Strings/ReverseArrayWithoutSpecialChars.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/Strings/ReverseArrayWithoutSpecialChars.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="588" selectionTopPixel="32"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Node.java" partName="Node.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/LinkedLists/Node.java" title="Node.java" tooltip="DataStructures/src/LinkedLists/Node.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/LinkedLists/Node.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="112" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Operations.java" partName="Operations.java" path="D:/preparation/datastructures_workspace/datastructures/DataStructures/src/LinkedLists/Operations.java" title="Operations.java" tooltip="DataStructures/src/LinkedLists/Operations.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DataStructures/src/LinkedLists/Operations.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2174" selectionTopPixel="1007"/>
+</editor>
 </editors>
 <views>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Warnings (4 items)"/>
-<category IMemento.internal.id="Errors"/>
-</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -271,160 +312,162 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/backtracking/StringPermutation.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/backtracking/NQueenProblem.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/backtracking/TestClass.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/backtracking/TestClass2.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/Arrays/missingElement.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/Arrays/MaxSubArray_KadaneAlgorithm.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/Arrays/PairWithSum.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/Strings/ReverseArrayWithoutSpecialChars.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/LinkedLists/Node.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DataStructures/src/LinkedLists/Operations.java"/>
 </editors>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="690" y="0"/>
+<item historyLabel="missingElement.java" index="0">
+<position info="not_deleted" x="575" y="0"/>
 </item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="818" y="0"/>
+<item historyLabel="missingElement.java" index="0">
+<position info="not_deleted" x="296" y="0"/>
 </item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="813" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="836" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="863" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="1011" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="1032" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="1050" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="1096" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="1134" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="1204" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="1355" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="1309" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="1333" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="1404" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="946" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="965" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="967" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="886" y="0"/>
-</item>
-<item historyLabel="StringPermutation.java" index="0">
-<position info="not_deleted" x="918" y="0"/>
-</item>
-<item historyLabel="NQueenProblem.java" index="1">
+<item historyLabel="MaxSubArray_KadaneAlgorithm.java" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="NQueenProblem.java" index="1">
-<position info="not_deleted" x="594" y="0"/>
+<item historyLabel="MaxSubArray_KadaneAlgorithm.java" index="1">
+<position info="not_deleted" x="187" y="0"/>
 </item>
-<item historyLabel="NQueenProblem.java" index="1">
-<position info="not_deleted" x="171" y="0"/>
+<item historyLabel="MaxSubArray_KadaneAlgorithm.java" index="1">
+<position info="not_deleted" x="694" y="0"/>
 </item>
-<item historyLabel="NQueenProblem.java" index="1">
-<position info="not_deleted" x="205" y="0"/>
+<item historyLabel="MaxSubArray_KadaneAlgorithm.java" index="1">
+<position info="not_deleted" x="452" y="0"/>
 </item>
-<item historyLabel="NQueenProblem.java" index="1">
-<position info="not_deleted" x="476" y="0"/>
+<item historyLabel="MaxSubArray_KadaneAlgorithm.java" index="1">
+<position info="not_deleted" x="591" y="0"/>
 </item>
-<item historyLabel="NQueenProblem.java" index="1">
-<position info="not_deleted" x="239" y="0"/>
+<item historyLabel="MaxSubArray_KadaneAlgorithm.java" index="1">
+<position info="not_deleted" x="692" y="0"/>
 </item>
-<item historyLabel="NQueenProblem.java" index="1">
-<position info="not_deleted" x="265" y="0"/>
-</item>
-<item historyLabel="NQueenProblem.java" index="1">
-<position info="not_deleted" x="352" y="0"/>
-</item>
-<item historyLabel="NQueenProblem.java" index="1">
-<position info="not_deleted" x="342" y="0"/>
-</item>
-<item historyLabel="NQueenProblem.java" index="1">
-<position info="not_deleted" x="466" y="0"/>
-</item>
-<item historyLabel="TestClass.java" index="2">
+<item historyLabel="PairWithSum.java" index="2">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position/>
+<item historyLabel="PairWithSum.java" index="2">
+<position info="not_deleted" x="254" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="1386" y="0"/>
+<item historyLabel="PairWithSum.java" index="2">
+<position info="not_deleted" x="343" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="1515" y="0"/>
+<item historyLabel="PairWithSum.java" index="2">
+<position info="not_deleted" x="335" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="1890" y="0"/>
+<item historyLabel="ReverseArrayWithoutSpecialChars.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="1888" y="0"/>
+<item historyLabel="ReverseArrayWithoutSpecialChars.java" index="3">
+<position info="not_deleted" x="193" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="1386" y="0"/>
+<item historyLabel="ReverseArrayWithoutSpecialChars.java" index="3">
+<position info="not_deleted" x="219" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position/>
+<item historyLabel="ReverseArrayWithoutSpecialChars.java" index="3">
+<position info="not_deleted" x="211" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="1386" y="0"/>
+<item historyLabel="ReverseArrayWithoutSpecialChars.java" index="3">
+<position info="not_deleted" x="596" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="2296" y="0"/>
+<item historyLabel="ReverseArrayWithoutSpecialChars.java" index="3">
+<position info="not_deleted" x="319" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="2257" y="0"/>
+<item historyLabel="ReverseArrayWithoutSpecialChars.java" index="3">
+<position info="not_deleted" x="293" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="2333" y="0"/>
+<item historyLabel="ReverseArrayWithoutSpecialChars.java" index="3">
+<position info="not_deleted" x="319" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="2435" y="0"/>
+<item historyLabel="ReverseArrayWithoutSpecialChars.java" index="3">
+<position info="not_deleted" x="399" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="2437" y="0"/>
+<item historyLabel="ReverseArrayWithoutSpecialChars.java" index="3">
+<position info="not_deleted" x="517" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position/>
+<item historyLabel="ReverseArrayWithoutSpecialChars.java" index="3">
+<position info="not_deleted" x="506" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="2004" y="0"/>
+<item historyLabel="Node.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position/>
+<item historyLabel="Node.java" index="4">
+<position info="not_deleted" x="112" y="0"/>
 </item>
-<item historyLabel="TestClass.java" index="2">
-<position info="not_deleted" x="1593" y="0"/>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="TestClass2.java" index="3">
-<position info="not_deleted" x="325" y="0"/>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="202" y="0"/>
 </item>
-<item active="true" historyLabel="NQueenProblem.java" index="1">
-<position info="not_deleted" x="466" y="0"/>
+<item historyLabel="Node.java" index="4">
+<position info="not_deleted" x="112" y="0"/>
+</item>
+<item historyLabel="Node.java" index="4">
+<position info="not_deleted" x="141" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="202" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="218" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="802" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1077" y="0"/>
+</item>
+<item historyLabel="Node.java" index="4">
+<position info="not_deleted" x="112" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1077" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1188" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1341" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1447" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="389" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1288" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1500" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1946" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="741" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1546" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1742" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1850" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1911" y="19"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="1993" y="0"/>
+</item>
+<item historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="741" y="0"/>
+</item>
+<item active="true" historyLabel="Operations.java" index="5">
+<position info="not_deleted" x="2163" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -444,6 +487,33 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Operations.java" tooltip="DataStructures/src/LinkedLists/Operations.java">
+<persistable path="/DataStructures/src/LinkedLists/Operations.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Node.java" tooltip="DataStructures/src/LinkedLists/Node.java">
+<persistable path="/DataStructures/src/LinkedLists/Node.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReverseArrayWithoutSpecialChars.java" tooltip="DataStructures/src/Strings/ReverseArrayWithoutSpecialChars.java">
+<persistable path="/DataStructures/src/Strings/ReverseArrayWithoutSpecialChars.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PairWithSum.java" tooltip="DataStructures/src/Arrays/PairWithSum.java">
+<persistable path="/DataStructures/src/Arrays/PairWithSum.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaxSubArray_KadaneAlgorithm.java" tooltip="DataStructures/src/Arrays/MaxSubArray_KadaneAlgorithm.java">
+<persistable path="/DataStructures/src/Arrays/MaxSubArray_KadaneAlgorithm.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="missingElement.java" tooltip="DataStructures/src/Arrays/missingElement.java">
+<persistable path="/DataStructures/src/Arrays/missingElement.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReverseArray.java" tooltip="DataStructures/src/Arrays/ReverseArray.java">
+<persistable path="/DataStructures/src/Arrays/ReverseArray.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CoinChangingProblem.java" tooltip="DataStructures/src/backtracking/CoinChangingProblem.java">
+<persistable path="/DataStructures/src/backtracking/CoinChangingProblem.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="stringCombination.java" tooltip="DataStructures/src/backtracking/stringCombination.java">
+<persistable path="/DataStructures/src/backtracking/stringCombination.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestClass2.java" tooltip="DataStructures/src/backtracking/TestClass2.java">
 <persistable path="/DataStructures/src/backtracking/TestClass2.java"/>
 </file>
@@ -461,24 +531,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdjList.java" tooltip="DataStructures/src/Graphs/AdjList.java">
 <persistable path="/DataStructures/src/Graphs/AdjList.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdjListNode.java" tooltip="DataStructures/src/Graphs/AdjListNode.java">
-<persistable path="/DataStructures/src/Graphs/AdjListNode.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GraphOpertions.java" tooltip="DataStructures/src/Graphs/GraphOpertions.java">
-<persistable path="/DataStructures/src/Graphs/GraphOpertions.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinaryTreeOperations.java" tooltip="DataStructures/src/BinaryTrees/BinaryTreeOperations.java">
-<persistable path="/DataStructures/src/BinaryTrees/BinaryTreeOperations.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Node.java" tooltip="DataStructures/src/BinaryTrees/Node.java">
-<persistable path="/DataStructures/src/BinaryTrees/Node.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KMPStringMatching.java" tooltip="DataStructures/src/Strings/KMPStringMatching.java">
-<persistable path="/DataStructures/src/Strings/KMPStringMatching.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MajorityElementInArray.java" tooltip="DataStructures/src/Arrays/MajorityElementInArray.java">
-<persistable path="/DataStructures/src/Arrays/MajorityElementInArray.java"/>
 </file>
 </mruList>
 </workbench>
